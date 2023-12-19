@@ -1,0 +1,6 @@
+# files to ignore
+*.DS_Store
+*.code-workspace
+# directories to ignore
+.conda
+.vscode
